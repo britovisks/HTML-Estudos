@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+*{
+    background-image: linear-gradient(to right, #4DB2FA,#4DE8FA);
+    
+}
+body{
+    font-family:'Courier New', Courier, monospace;
+    /*Medidas absolutas:
+    CM, MM, in, px, pt, pc
+    ______________________
+    Medidas relativas:
+     em, ex, rem, vw, vh, %
+    */
+    font-size: 1.5em ;
+}
+

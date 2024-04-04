@@ -1,0 +1,20 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Fredericka+the+Great&family=Kaushan+Script&family=Major+Mono+Display&family=Pacifico&family=Permanent+Marker&family=Roboto+Slab:wght@100..900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Fondamento:ital@0;1&family=Fredericka+the+Great&family=Kaushan+Script&family=Major+Mono+Display&family=Pacifico&family=Permanent+Marker&family=Roboto+Slab:wght@100..900&display=swap');
+
+  *{
+background-image: linear-gradient(to right ,#2D45ED, #2D82ED);
+ }
+  h1 , h2{
+        font-family: 'Fredericka the Great', sans-serif;
+        font-size: 50px;
+        font-weight: normal;
+        color: rgb(235, 235, 238);
+      }
+      p{
+        font-family: 'Fondamento', sans-serif;
+        font-size: 30px;
+        color: rgb(235, 235, 238);
+      }
+
